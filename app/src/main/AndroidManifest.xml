@@ -17,7 +17,7 @@
             </intent-filter>
 
             <intent-filter>
-                <data android:scheme="sjk.d3deb0f9d3bdded2" />
+                <data android:scheme="sjk.a9b4642966ced5c1" />
                 <action android:name="android.intent.action.VIEW" />
 
                 <category android:name="android.intent.category.DEFAULT" />
@@ -28,7 +28,7 @@
 
         <meta-data
             android:name="SHUJIKE_APPKEY"
-            android:value="d3deb0f9d3bdded2" />
+            android:value="a9b4642966ced5c1" />
 
 
         <meta-data
