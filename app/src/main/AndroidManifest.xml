@@ -15,7 +15,7 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
+            //集成相关
             <intent-filter>
                 <data android:scheme="sjk.a9b4642966ced5c1" />
                 <action android:name="android.intent.action.VIEW" />
@@ -25,12 +25,10 @@
             </intent-filter>
 
         </activity>
-
+        //集成相关
         <meta-data
             android:name="SHUJIKE_APPKEY"
             android:value="a9b4642966ced5c1" />
-
-
         <meta-data
             android:name="SHUJIKE_CHANNEL"
             android:value="yingyongbao" />
