@@ -4,7 +4,7 @@ apply plugin: 'shujikegradleplugin'
 
 android {
     compileSdkVersion 26
-    buildToolsVersion "26.0.2"
+    buildToolsVersion '23.0.1'
     defaultConfig {
         applicationId "demo.sdk.android.com.shujike.jcenter.shujike_android_sdk_demo"
         minSdkVersion 19
@@ -34,6 +34,6 @@ dependencies {
     compile 'com.android.support:appcompat-v7:26.+'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     //集成相关
-    compile(name: 'shujike-android-sdk-2.3.5', ext: 'aar')
+    compile(name: 'shujike-android-sdk-2.4.1', ext: 'aar')
     testCompile 'junit:junit:4.12'
 }
