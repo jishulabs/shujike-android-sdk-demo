@@ -18,7 +18,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
 
-            //集成相关
+            <!--集成相关-->
             <intent-filter>
                 <data android:scheme="sjk.3020df199745feec" />
                 <action android:name="android.intent.action.VIEW" />
@@ -28,7 +28,7 @@
             </intent-filter>
 
         </activity>
-        //集成相关
+        <!--集成相关-->
         <meta-data
             android:name="SHUJIKE_APPKEY"
             android:value="3020df199745feec" />
