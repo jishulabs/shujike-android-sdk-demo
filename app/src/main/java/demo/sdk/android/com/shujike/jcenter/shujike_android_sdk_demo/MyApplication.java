@@ -12,8 +12,10 @@ public class MyApplication extends Application {
     @Override
     public void onCreate() {
         SjkAgent.setDebugEnabled(true);
-        SjkAgent.init(this);
+
         SjkAgent.setBaseUrl("https://t.shujike.com", "https://a.shujike.com", "ftp.shujike.com");
+
+        SjkAgent.init(this);
 
         super.onCreate();
     }
