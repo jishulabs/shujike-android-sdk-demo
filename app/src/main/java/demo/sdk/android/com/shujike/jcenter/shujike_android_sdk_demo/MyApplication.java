@@ -1,12 +1,10 @@
 package demo.sdk.android.com.shujike.jcenter.shujike_android_sdk_demo;
 
 import android.app.Application;
+import android.os.Build;
+import android.widget.Toast;
 
 import com.shujike.analysis.SjkAgent;
-
-/**
- * Created by kevin on 2017/12/8.
- */
 
 public class MyApplication extends Application {
     @Override

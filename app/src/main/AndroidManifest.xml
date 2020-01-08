@@ -20,7 +20,7 @@
 
             <!--集成相关-->
             <intent-filter>
-                <data android:scheme="sjk.a9b4642966ced5c1" />
+                <data android:scheme="sjk.d3deb0f9d3bdded2" />
                 <action android:name="android.intent.action.VIEW" />
 
                 <category android:name="android.intent.category.DEFAULT" />
@@ -31,7 +31,7 @@
         <!--集成相关-->
         <meta-data
             android:name="SHUJIKE_APPKEY"
-            android:value="a9b4642966ced5c1" />
+            android:value="d3deb0f9d3bdded2" />
         <meta-data
             android:name="SHUJIKE_CHANNEL"
             android:value="yingyongbao" />
