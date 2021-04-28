@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mike-shujike-android-sdk-demo.iml" filepath="$PROJECT_DIR$/mike-shujike-android-sdk-demo.iml" group="shujike-android-sdk-demo" />
-      <module fileurl="file://$PROJECT_DIR$/shujike-android-sdk-demo.iml" filepath="$PROJECT_DIR$/shujike-android-sdk-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/shujike-android-sdk-demo-app.iml" filepath="$PROJECT_DIR$/app/shujike-android-sdk-demo-app.iml" group="shujike-android-sdk-demo/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mike.shujike-android-sdk-demo.iml" filepath="$PROJECT_DIR$/.idea/modules/mike.shujike-android-sdk-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/shujike-android-sdk-demo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/shujike-android-sdk-demo.app.iml" />
     </modules>
   </component>
 </project>
